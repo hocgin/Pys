@@ -7,7 +7,7 @@
 ## Update
 > 2016年08月19日15:21:14
 
-- 新增[邮件发送的完整封装](https://github.com/hocgin/Pys/blob/master/in/hocg/py/utils.py)
+- 新增[邮件发送的完整封装](https://github.com/hocgin/Pys/blob/master/in/hocg/py/utils.py) [使用](https://github.com/hocgin/Pys/blob/master/in/Main.py)
 
 ## Structure
 - Python 2.7.12
